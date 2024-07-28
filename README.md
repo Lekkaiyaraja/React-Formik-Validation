@@ -20,5 +20,5 @@ This project is a simple library management system built with React, Formik, and
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/Lekkaiyaraja/React-Formik-Validation.git
 cd library-management-system
